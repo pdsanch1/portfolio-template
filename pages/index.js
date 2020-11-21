@@ -28,16 +28,17 @@ export default function Home() {
       <Layout>
         <LeftColumn>
           <Header
-            name="Ada Lovelace"
-            position="Matemática y escritora"
+            name="Testing by Pedro Sanchez"
+            position="Software Architect and Philosopher"
             profilePicture="/img/profile-pic.jpg"
           />
           <CoverText>
-            Hola soy Ada, la condesa de Lovelace. Soy una matemática y
-            escritora. Me interesan los modelos matemáticos en especial los
-            relacionados con el sistema nervioso humano. Considero que la
-            computación es más que números, creo que puede aplicarse a otros
-            campos como el arte y la música.
+            Welcome to my resume. I'm in love with God's creation and all 
+            its wonderful components made for humans to enjoy peacefully.
+            In particular, I love challemges and sorting out problems in 
+            using logic and rationale thinking which is a gift we receive
+            from God. A logical application of this is software architecture
+            and project development which is my main interest area.
           </CoverText>
           <ExperienceBox
             date="Diciembre 1843"

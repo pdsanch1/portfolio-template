@@ -1,0 +1,29 @@
+
+  ===> Este archivo historia se crea desde  el shell schript ==>  ~/.zprofile     
+
+Fri Nov 20 17:33:34 CST 2020
+
+
+/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/git/bin
+
+
+.zprofile
+
+
+
+
+/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/pedrodanielsanchez/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/git/bin
+
+
+/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/pedrodanielsanchez/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/git/bin:/Users/pedrodanielsanchez/.npmprefix/bin
+
+
+===================== .zshrc
+Fri Nov 20 17:33:35 CST 2020
+.zhrc
+/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/pedrodanielsanchez/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/git/bin:/Users/pedrodanielsanchez/.npmprefix/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin
+/Users/pedrodanielsanchez/.nvm/versions/node/v14.8.0/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/pedrodanielsanchez/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/git/bin:/Users/pedrodanielsanchez/.npmprefix/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin
+/Users/pedrodanielsanchez/.nvm/versions/node/v14.8.0/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/pedrodanielsanchez/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/git/bin:/Users/pedrodanielsanchez/.npmprefix/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin
+.zhrc before end
+.zhrc at end
+/Users/pedrodanielsanchez/.nvm/versions/node/v14.8.0/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/pedrodanielsanchez/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/pedrodanielsanchez/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/git/bin:/Users/pedrodanielsanchez/.npmprefix/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/pedrodanielsanchez/.rvm/bin
